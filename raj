@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lan="en">
+    <head>
+        <title>M.SUNDARAJ resume</title>
+        <style>
+            h1{
+                color:white;
+                background-color: darkturquoise;
+                text-align: center;
+                padding: 100px;
+                border-style:groove;
+                border-color: black;
+                border-width: 10px;
+            }
+            h3{
+                color:white;
+                background-color:darkturquoise;
+                text-align:left;
+                padding-inline-start: 50px;
+                border-style:groove;
+                border-color: black;
+                border-width: 10px;
+            }
+              
+            ul{
+               padding-inline-start: 150px;
+              }
+            ol{
+                padding-inline-start: 150px;
+              }
+            p{
+                padding-inline-start: 100px;
+                
+
+            }
+            
+        </style>
+    </head>
+    <body style="font-size:65px;background:lightcyan;font-family:Verdana, Geneva, Tahoma, sans-serif;border-style: groove;border-color: black;border-width: 5px;">
+        <h1 >  SUNDARRAJ M</h1>
+        <p style="text-align: center;"><b>Address : </b>3/15 ,Middle Street ,Paruthippadu-627354 ,Tirunelveli
+        | <b>Ph :</b>9361710106  | <b>Email -</b> msundarajbe2025@gmail.com</p>
+        <br>
+        <h3>ABOUT ME</h3>
+        
+        <p style="text-align: justify;">I  am  a  recent  graduate  with  a  strong  foundation  in  Python  programming,  problem-solving,  and  data handling. 
+I am eager to apply my passion for developing efficient solutions, learning new technologies, and building real-world projects. 
+Motivated to contribute to a dynamic team and grow as a Python developer.</p>
+        <br>
+        <h3>TECHNICAL SKILLS</h3>
+        
+        <ul>
+            <li>Python core and fundamentals </li>                            
+            <li>Libraries-Streamlit,pandas,numpy..etc</li>               
+            <li>Data visualization</li>
+            <li>Matplotlib</li>
+            <li>Data analysis</li>
+            <li>Create a simple database website </li>
+        </ul>
+        <br>
+        <h3>PROJECTS</h3>
+        
+        <ol>
+            <li>
+           <b>Basic calculator and BMI Calculator using streamlit </b>
+           <br>
+           A simple Basic Calculator  and BMI Calculator  — all wrapped in a clean, interactive web app.
+           Features:* Perform basic arithmetic operations (+, −, ×, ÷)  , Calculate your Body Mass Index(BMI)
+            </li>
+            <li>
+         <b>World population growth Data visualization project</b>
+         <br>
+          I recently worked on a project that explores world population growth trends using Python and
+          data visualization libraries like Matplotlib and Pandas.
+            </li>   
+         <li><b>Built to Image filter app using streamlit </b>
+         <br>
+          I’m thrilled to share that we’ve launched our brand-new Image Filter App 
+          With this app, you can: Apply stunning filters instantly , Enhance colors and tones effortlessly
+          </li>
+          <li>
+         <b>Built a Simple Chatbot development</b>
+         <br>
+          Features:  Rule-based responses (Hello, Name, current time and date,Bye)
+          Rule-based responses (Hello, Name, current time and date,Bye), Tech used: Python + Streamlit
+          </li>
+          <li>
+          <b>Voice activated of offline assistant using Alexa </b>
+          <br>
+           Using sinricpro protal add devices connect to amazon alexa app
+            </li>
+        </ol>
+        <br>
+        <h3>EDUCATION</h3>
+        
+        <ul>
+            <li>
+                <b>BE - ELECTRONIC COMMUNICATION</b>   , CGPA -79% with first class ,  2021-2025
+            <br>
+            PSN Institute of technology and science
+            <br>
+            Tirunelveli
+            </li>
+            <li>
+                <b>HSC - MATHS COMPUTER  </b> , HSC-88% , SSLC-85%
+                <br>
+            GOVT Higher secondary School 
+            <br>            
+            Moolaikaraipatti
+       
+            </li>
+        </ul>
+        <br>
+        <h3>ADDITIONAL SKILLS</h3>
+        
+        <ul>
+            <li>
+                <b>Languages:</b> Tamil, English
+            </li>
+            <li>
+                <b>Certifications:</b> Feather software certified on Python course 
+            </li>
+            <li>
+                <b>Awards/Activities: </b>Got a award for department topper of the year of 2023
+            </li>
+        </ul>
+
+
+        
+    </body>
+</html>
